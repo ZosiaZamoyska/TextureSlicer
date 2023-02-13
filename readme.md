@@ -8,7 +8,7 @@ Choose a geometry (brep) and adjust roughness parameters (interval, amplitude, v
 Top view preview of texture diagram is provided.
 
 <p align="left">
-<img src="images/baner_params.png" width="50%" />
+<img src="images/baner_params.png" width="100%" />
 </p>
 
 Go to second tab to change printer settings (layer height, nozzle size, wall count, base layers, temperature) and save the file.
